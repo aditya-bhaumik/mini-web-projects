@@ -1,2 +1,1 @@
-This a small registration page website which i made using html and css 
-This is one of the first web development project I made
+This repository contains all the small projects which i made to learn and develop my web development skills . 
